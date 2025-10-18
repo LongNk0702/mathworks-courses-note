@@ -1,0 +1,16 @@
+%Plot damped sinusoid
+%given two vectors t and y, make a plot containing a blue (b) dashed (--)
+%line of y versus t. Mark the minimum value m of the vector y by adding a
+%point to the plot. this point should be a red asterisk marker, and it must
+%be added after the blue line.
+%Return the minimum value of y as output m.
+
+function m=plot_cos(y,t)
+[m,idx]=min(y);
+
+plot(t,y,'b--');
+hold on;
+
+plot(t(idx),m,'r*');
+hold off;
+end
