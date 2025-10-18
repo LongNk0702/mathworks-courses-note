@@ -1,4 +1,3 @@
 # Force language classification
 *.m linguist-language=MATLAB
-*.py linguist-language=Python
 *.md linguist-language=Markdown
