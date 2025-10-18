@@ -1,0 +1,12 @@
+# Force all .m files to be counted as MATLAB
+*.m linguist-language=MATLAB
+
+# Make sure they are detectable by Linguist
+*.m linguist-detectable=true
+
+# Ensure they are not treated as vendored or generated
+*.m -linguist-vendored
+*.m -linguist-generated
+
+# (Tùy chọn) Nếu có notebook:
+*.ipynb linguist-language=Jupyter Notebook

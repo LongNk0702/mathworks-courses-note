@@ -10,8 +10,8 @@ Get started with MATLAB to analyze science and engineering data effectively.
 
 ---
 
-## 📂 Table of Contents
-1. [Commands](./01-Commands/)
+## Table of Contents
+1. [Commands](01-Commands/)
 2. [MATLAB Desktop and Editor](./02-Matlab-Desktop-and-Editor/)
 3. [Vectors and Matrices](./03-Vectors-and-Matrices/)
 4. [Array Indexing and Modification](./04-Array-Indexing-and-Modification/)
@@ -27,11 +27,11 @@ Get started with MATLAB to analyze science and engineering data effectively.
 
 ---
 
-## 📘 Course Overview
+## Course Overview
 
 The **MATLAB Onramp** course introduces learners to the MATLAB environment and core programming concepts through guided exercises and real-world applications.
 
-### 🔹 Key Topics
+### Key Topics
 - Navigating the MATLAB interface and command window  
 - Working with vectors, matrices, and arrays  
 - Array indexing, slicing, and modification  
