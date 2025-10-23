@@ -11,7 +11,7 @@ Get started with MATLAB to analyze science and engineering data effectively.
 ---
 
 ## Table of Contents
-1. [Commands](01-Commands/)
+1. [Commands](1-Commands)
 2. [MATLAB Desktop and Editor](./02-Matlab-Desktop-and-Editor/)
 3. [Vectors and Matrices](./03-Vectors-and-Matrices/)
 4. [Array Indexing and Modification](./04-Array-Indexing-and-Modification/)
